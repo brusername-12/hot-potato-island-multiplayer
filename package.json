@@ -1,0 +1,10 @@
+{
+  "name": "hot-potato-island-multiplayer",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Hot Potato Island 3D - prototype multiplayer rooms",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^4.21.2", "ws": "^8.18.0" }
+}
